@@ -1,0 +1,20 @@
+body{
+	background: #c7b198;
+}
+h1{
+	color: #680747;
+	text-shadow: black 2px 2px;
+}
+h2{
+	color: black;
+}
+h3{
+	color: #680747;
+	text-shadow: white 2px 2px;
+}
+button{
+	color: white;
+	background-color: black;
+	box-shadow: white 1px 1px;
+	border-radius: 3px;
+}
